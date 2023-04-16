@@ -1,0 +1,190 @@
+= NYC Apartments
+:toc:
+:imagesdir: ./images
+
+Initial Constraints::
+- Max Price: 5500
+- Required Beds: 3
+- Min Baths: 2
+- Location: Upper-Mid to Lower East Side
+
+== Zillow
+
+=== 43 Clinton St, APT 1A, New York, NY 10002
+
+==== Details
+- Price: 5250
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.zillow.com/homedetails/43-Clinton-St-APT-1A-New-York-NY-10002/2099991713_zpid/
+
+==== Location
+
+image::apt-1-location.png[]
+
+==== Pics
+
+image::apt-1-pics-1.png[]
+
+image::apt-1-pics-2.png[]
+
+=== 53 Pitt St, # 5B, New York, NY 10002
+
+==== Details
+- Price: 5300
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.zillow.com/homedetails/53-Pitt-St-5B-New-York-NY-10002/2079197308_zpid/
+
+==== Location
+
+image::apt-2-location.png[]
+
+==== Pics
+
+image::apt-2-pics-1.png[]
+
+image::apt-2-pics-2.png[]
+
+=== 329 E 6th St, APT 1, New York, NY 10003
+
+==== Details
+- Price: 5500
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.zillow.com/homedetails/329-E-6th-St-APT-1-New-York-NY-10003/2096640840_zpid/
+
+==== Location
+
+image::apt-3-location.png[]
+
+==== Pics
+
+image::apt-3-pics-1.png[]
+
+
+=== 635 9th Ave, APT 3, New York, NY 10036
+
+==== Details
+- Price: 4500
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.zillow.com/homedetails/635-9th-Ave-APT-3-New-York-NY-10036/2124170137_zpid/?
+
+==== Location
+
+image::apt-4-location.png[]
+
+==== Pics
+
+image::apt-4-pics-1.png[]
+
+== Apartments.com
+
+=== 328 E 4th St Unit 5B
+
+==== Details
+- Price: 5500
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.apartments.com/328-e-4th-st-new-york-ny-unit-5b/f4vchgt/
+
+==== Location
+
+image::apt-5-location.png[]
+
+==== Pics
+
+image::apt-5-pics-1.png[]
+
+
+=== 103 Clinton St Unit 2A
+
+==== Details
+- Price: 5295
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.apartments.com/103-clinton-st-new-york-ny/n0dfk6n/
+
+==== Location
+
+image::apt-6-location.png[]
+
+==== Pics
+
+image::apt-6-pics-1.png[]
+
+=== 246 E 49th St
+
+==== Details
+- Price: 4995
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://www.apartments.com/246-e-49th-st-new-york-ny/m51vsxj/
+
+==== Location
+
+image::apt-7-location.png[]
+
+
+==== Pics
+
+image::apt-7-pics-1.png[]
+
+== Evan (Realtor I know from the gym)
+
+=== 637 2nd Avenue Unit#4A
+
+==== Details
+- Price: 4450
+- Beds: 3
+- Baths: 1 !!
+
+==== Link
+- https://matrix.onekeymlsny.com/Matrix/Public/Portal.aspx?ID=0-926935892-10&eml=YnJlbmRhbi5tYXR0aGV3czEyMThAZ21haWwuY29t#1
+- Unfortunately only links to all listings
+
+==== Location
+
+image::apt-8-location.png[]
+
+==== Pics
+
+image::apt-8-pics-1.png[]
+
+image::apt-8-pics-2.png[]
+
+image::apt-8-pics-3.png[]
+
+=== 460 Ninth Avenue Unit#2
+
+==== Details
+- Price: 4950
+- Beds: 3
+- Baths: 2
+
+==== Link
+- https://matrix.onekeymlsny.com/Matrix/Public/Portal.aspx?ID=0-926935892-10&eml=YnJlbmRhbi5tYXR0aGV3czEyMThAZ21haWwuY29t#1
+- Unfortunately only links to all listings
+
+==== Location
+
+image::apt-9-location.png[]
+
+==== Pics
+
+image::apt-9-pics-1.png[]
