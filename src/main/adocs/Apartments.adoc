@@ -188,3 +188,33 @@ image::apt-9-location.png[]
 ==== Pics
 
 image::apt-9-pics-1.png[]
+
+== 4/23 Updates
+
+Constraints::
+- Max Price: 5500
+- Required Beds: 3
+- Min Baths: 1
+- Location: Upper-Mid to Lower East Side
+
+== Apartments.com
+
+=== 460 Ninth Avenue Unit#2
+
+==== Details
+- Price: 4995
+- Beds: 3
+- Baths: 1
+
+==== Link
+- https://www.apartments.com/493-3rd-ave-new-york-ny-unit-2e/37qtf9e/
+
+==== Location
+
+image::apt-10-location.png[]
+
+==== Pics
+
+image::apt-10-pics-1.png[]
+
+
